@@ -1,7 +1,15 @@
 .heading {
+    width: 400px;
+    background: rgb(175, 175, 175);
+    text-align: center;
+    padding: 10px;
+    border: 10px rgb(175 , 175, 175);
+    border-radius: 5px;
+    margin: auto;
+}
+
+.card {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: black;
 }
 
 .links {
